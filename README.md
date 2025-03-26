@@ -47,7 +47,9 @@
 </div>
 
 ##
-![snake gif](https://github.com/vitnhou77/vitnhou77/blob/output/github-contribution-grid-snake.gif)
+<br clear="both">
+<div align="center">
+<img src="https://raw.githubusercontent.com/Caik0/Caik0/output/snake.svg" alt="Snake animation" />
 </div>
 
 
