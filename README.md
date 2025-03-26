@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá! Meu nome e Vitor Hugo
 
 - 🔭 Hoje trabalho com Ecommerce
 - 🌱 Graduando em Ciência da Computação
@@ -45,3 +45,4 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
 </div>
+# ![snake gif](https://github.com/vitnhou77/vitnhou77/blob/output/github-contribution-grid-snake.gif)
