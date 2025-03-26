@@ -47,9 +47,7 @@
 </div>
 
 ##
-<br clear="both">
-<div align="center">
-<img src="https://raw.githubusercontent.com/vitnhou77/vitnhou77/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/vitnhou77/vitnhou77/blob/output/github-contribution-grid-snake.gif)
 </div>
 
 
