@@ -1,4 +1,4 @@
-## Olá! Meu nome e Vitor Hugo
+## Olá! Eu sou o Vitor Hugo
 
 - 🔭 Hoje trabalho com Ecommerce
 - 🌱 Graduando em Ciência da Computação
