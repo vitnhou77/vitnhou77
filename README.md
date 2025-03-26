@@ -46,7 +46,11 @@
   </a>
 </div>
 
-![snake gif](https://github.com/your-user-name/your-user-name/blob/output/github-contribution-grid-snake.gif)
+##
+<br clear="both">
+<div align="center">
+<img src="https://raw.githubusercontent.com/vitnhou77/vitnhou77/output/snake.svg" alt="Snake animation" />
+</div>
 
 
 
