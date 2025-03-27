@@ -25,7 +25,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
   <img width="12" />
-  <img width="12" />
   
 </div>
 
