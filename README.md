@@ -46,6 +46,7 @@
 </div>
 
 ##
+
 <br clear="both">
 <div align="center">
 <img src="https://raw.githubusercontent.com/vitnhou77/vitnhou77/output/snake.svg" alt="Snake animation" />
