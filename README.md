@@ -4,8 +4,8 @@
 - 🌱 Graduando em Ciência da Computação
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vitnhou77&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=falsedark&hide_border=false" height="120" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=vitnhou77&locale=en&mode=daily&theme=falsedark&hide_border=false&border_radius=5" height="120" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vitnhou77&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false" height="120" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=vitnhou77&locale=en&mode=daily&theme=midnight-purple&hide_border=false&border_radius=5" height="120" alt="streak graph"  />
 </div>
 
 ##
