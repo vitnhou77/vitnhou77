@@ -1,7 +1,7 @@
-## Olá! Eu sou o Vitor Hugo
+## 👋 Hello! I'm Vitor Hugo
 
-- 🔭 Hoje trabalho com Ecommerce
-- 🌱 Graduando em Ciência da Computação
+- 🎓 Computer Science Student at Centro Universitário Una
+- 💻 Passionate Full Stack Developer focused on building modern and scalable web applications
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vitnhou77&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blue_navy&hide_border=false" height="120" alt="languages graph"  />
