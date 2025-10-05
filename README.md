@@ -1,6 +1,6 @@
-## 👋 Hello! I'm Vitor Hugo
+##  Hello! I'm Vitor Hugo
 
-- 🎓 Computer Science Student at Centro Universitário Una
+- 🎓 Computer Science Student at UNA university center
 - 💻 Passionate Full Stack Developer focused on building modern and scalable web applications
 
 <div align="center">
